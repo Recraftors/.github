@@ -47,7 +47,7 @@ You can also use this repo's [discussions](https://github.com/Back-to-the-Fabric
 
 ### Our discord
 
-Under construction :tools:
+Under construction 🛠️
 
 ## Any other contact need
 
