@@ -2,7 +2,7 @@
 
 Welcome to the **Back to the Fabric** project!
 
-![Back to the Fabric](./.pretty_readme/bttf.png "Project logo")
+![Back to the Fabric](https://raw.githubusercontent.com/Back-to-the-Fabric/.github/main/pictures/bttf.png "Project logo")
 
 We do ports, we do backports, we do back to (the) Fabric ports!
 
