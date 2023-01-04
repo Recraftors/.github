@@ -19,6 +19,8 @@ This project was launched by [Nerjal Nosk](https://github.com/NerjalNosk) at the
 As of today, we are a total of <n>1</n> person, and ready to welcome new members who would be motivated on participating in the project.
 <!-- Yes I used a non-existant HTML tag to distinguish the number. So what? At least it'll be easier to find out when updating -->
 
+*Disclaimer: the project's name was born out of the `Back to the Future` pun, while bringing back one originally Fabric-compatible mod to the Fabric toolchain. There is no aggressivity against any other modloader, we just want to make mods accessible to more users, and like the Fabric platform*
+
 ## Our members
 
 As of today, our team regroups a total of <n>1</n> person, and aims to grow bigger, to provide always more mod ports to the community.
