@@ -31,7 +31,7 @@ As for the community itself, we approximate it to a total of <n>0</n> members. _
 
 ## Suggest a mod port
 
-You can suggest a mod to be ported on both out [Discord](#Our-Discord) server, or through this repo's [discussions](https://github.com/Back-to-the-Fabric/BttF/discussions/categories/Suggestions)
+You can suggest a mod to be ported on both out [Discord](#Our-Discord) server, or through this repo's [discussions](https://github.com/orgs/Back-to-the-Fabric/discussions)
 
 <!--
 TODO: add announcement discussion messages to provide templates
@@ -41,7 +41,7 @@ TODO: add announcement discussion messages to provide templates
 
 You can join our [Discord](#Our-Discord) server, and open a candidacy ticket in the [candidacy](# "Not yet available") channel. We will then be in touch about your motivation and whether we take you in.
 
-You can also use this repo's [discussions](https://github.com/Back-to-the-Fabric/BttF/discussions/categories/candidate) to provide us a base candidacy sheet<!--TODO: add announcement template and provide link-->, and we would then take contact with you in order to discuss your candidacy.
+You can also use this repo's [discussions](https://github.com/orgs/Back-to-the-Fabric/discussions/categories/candidate) to provide us a base candidacy sheet<!--TODO: add announcement template and provide link-->, and we would then take contact with you in order to discuss your candidacy.
 
 ## Join the community
 
