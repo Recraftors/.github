@@ -19,8 +19,6 @@ This project was launched by [Nerjal Nosk](https://github.com/NerjalNosk) at the
 As of today, we are a total of <n>1</n> person, and ready to welcome new members who would be motivated on participating in the project.
 <!-- Yes I used a non-existant HTML tag to distinguish the number. So what? At least it'll be easier to find out when updating -->
 
-*Disclaimer: the project's name was born out of the `Back to the Future` pun, while bringing back one originally Fabric-compatible mod to the Fabric toolchain. There is no aggressivity against any other modloader, we just want to make mods accessible to more users, and like the Fabric platform*
-
 ## Our members
 
 As of today, our team regroups a total of <n>1</n> person, and aims to grow bigger, to provide always more mod ports to the community.
@@ -61,3 +59,10 @@ Coming soon(TM)
 
 Coming soon(TM)
 
+# Disclaimers
+
+* The project's name was born out of the `Back to the Future` pun, while bringing back one originally Fabric-compatible mod to the Fabric toolchain. There is no aggressivity against any other modloader, we just want to make mods accessible to more users, and like the Fabric platform*
+
+* :alert: All of our ports are unofficial unless marked as such. All licensing belongs to the original mod owners, but we are responsible for all mod support towards our ports. If, and only if, an error is actually caused by the code of the original mod contained in one of our port, then we would pass the report along to the real developer, if they still work on their mod.
+
+* We are by no means in a position to pass any demand to original mod owners. If you wish to see some modification occur in a mod we ported, you shall ask to the original mod owner to have it done. Only our own mods will include content of our own.
