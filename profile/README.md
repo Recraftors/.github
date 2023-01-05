@@ -27,7 +27,7 @@ As for the community itself, we approximate it to a total of <n>0</n> members. _
 
 ## Our activities
 
-We here do mod ports to the Minecraft [Fabric](https://fabricmc.net) modleader, but we also do ports to other modloaders: 
+We here do mod ports to the Minecraft [Fabric](https://fabricmc.net) modloader, but we also do ports to other modloaders: 
 * [Back to the Forge](https://github.com/orgs/Back-to-the-Forge)
 * [1.21 Quiltawatts](https://github.com/orgs/1-21-Quiltawatts)
 
