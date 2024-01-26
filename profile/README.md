@@ -46,7 +46,7 @@ You can also use this repo's [discussions](https://github.com/orgs/Recraftors/di
 
 ### Our discord
 
-Under construction 🛠️
+Join us! --> https://discord.gg/fMK2jACrHa
 
 ## Any other contact need
 
